@@ -77,4 +77,4 @@ I’m a Ph.D Student at the Human Capital Group at the University of Amsterdam.
 I work at the intersection of child development and health economics. I am interested in how the social environment affects economic and health outcomes, with a focus on mental health.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mt_cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
